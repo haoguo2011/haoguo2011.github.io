@@ -9,56 +9,57 @@ redirect_from:
 
 {% include base_path %}
 
+---
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* *Ph.D. in Wireless Communications*, Chalmers University of Technology, Gothenburg, Sweden (May 2017 – February 2022).
+* *M.Sc. in Wireless Communications*, Chalmers University of Technology, Gothenburg, Sweden (August 2015 – May 2017).
+* *B.Eng. in Electrical Engineering*, Nankai University, Tianjin, China (August 2011 – June 2015). 
 
-Work experience
+Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Postdoctoral Visiting Scholar**, NYU Wireless, New York University, Brooklyn, NY, USA (March 2024 - now).
+* **Postdoc**, Communication Systems Group, Department of Electrical Engineering, Chalmers University of Technology, Gothenburg, Sweden (February 2022 - now).
+* **Visitor**, NYU Wireless, New York University, Brooklyn, NY, USA (August 2023).
+* **Visiting Researcher**, University of Houston, Houston, TX, USA (November 2022 – February 2023).
+* **Visiting Researcher**, Technical University of Braunschweig, Braunschweig, Germany (September - October 2022). 
+ 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Funding
+======
+* "6G Communication-Aware Navigation for Robot Directives (6G-COMMAND)", *Swedish Research Council (VR)*, 2.4M SEK/240K USD, 2024-2026, responsibility: **Fellow**.
+* "Towards Intelligent and Safe Urban Transport System: Where Digital Twining and 6G Vehicular Communications Meet", *Chalmers Transport Area of Advance Collaborative Projects*, 2M SEK/200K USD, 2024-2026, responsibility: **co-PI**.
+* "Sustainable Urban C-V2X with Intelligent Radio Environment Twinning", *Chalmers AoA ICT Seed Project*, 300K SEK/30K USD, 2023, responsibility: **co-PI**.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Selected Honors and Certificates
+======
+* *International Postdoc Fellow* (acceptance rate ~20%), Swedish Research Council, 2023.
+* *Exemplary Reviewers*, IEEE Communications Letters, 2023.
+* *Exemplary Reviewers*, IEEE Wireless Communications Letters, 2020, 2021, 2022.
+* *Ericsson Research Foundation*, 2022, 2023.
+* *Pedagogical Prize* (only one winner per year), Department of Electrical Engineering, Chalmers, 2020.
+* *Adlerbert 60th Anniversary Scholarship* (top scholarship for master students), Chalmers, 2016.
+* *Avancez/IPOET Scholarship* (75% tuition fee waiver, and was increased to 85% in the second year), Chalmers, 2015.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Specialties:
+  * Physical-layer Wireless Communication
+  * MIMO
+  * Wireless Backhaul
+  * Radio Resource Management 
+  * Signal Processing
+  * Information Theory
+  * Mathematical modeling and optimizations
+  * Machine Learning
+* Tools:
+  * Matlab
+  * Python
+  * C++ 
+  * Latex
+  * VHDL, Xilinx Vivado/Intel Quartus/ModelSim
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
