@@ -30,7 +30,7 @@ Since February 2022, I have been a postdoctoral researcher at the Communication 
 - Robotic navigation and reinforcement learning
 - Upper-mid band (FR3) communications, both channel modeling and channel sounding SDR implementations
 - Integrate sensing and communications
-- Digital twining for dynamic mobile networks
+- Digital twinning for dynamic mobile networks
 
 ---
 # Contact

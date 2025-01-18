@@ -45,14 +45,14 @@ Selected Honors and Certificates
 Skills
 ======
 * Specialties:
-  * Physical-layer Wireless Communication
+  * Physical-layer wireless communication
   * MIMO
-  * Wireless Backhaul
-  * Radio Resource Management 
-  * Signal Processing
-  * Information Theory
+  * Wireless backhaul
+  * Radio resource management 
+  * Signal processing
+  * Information theory
   * Mathematical modeling and optimizations
-  * Machine Learning
+  * Machine learning
 * Tools:
   * Matlab
   * Python

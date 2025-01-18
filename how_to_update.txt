@@ -1,0 +1,15 @@
+# 1. 修改内容
+cd /path/to/haoguo2011.github.io
+# 使用编辑器更新文件
+
+# 2. 本地预览
+bundle exec jekyll serve
+# 浏览器访问 http://127.0.0.1:4000
+
+# 3. 提交更改
+git add .
+git commit -m "Update website content"
+git push origin main
+
+# 4. 确认更新
+# 打开浏览器，访问 https://haoguo2011.github.io
