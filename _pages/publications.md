@@ -50,7 +50,7 @@ Conference Papers
 13. **H. Guo**, B. Makki, and T. Svensson, "A comparison of initial access beamforming algorithms for millimeter wave networks”, in Proc. IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC) Workshop, Montreal, QC, Canada, 2017.
 14. **H. Guo**, B. Makki, and T. Svensson, "A genetic algorithm-based beamforming approach for delay-constrained networks”, in Proc. IEEE International Symposium on Modeling and Optimization in Mobile, Ad hoc, and Wireless Networks (WiOpt), Paris, France, 2017.
     
-Bookchatpers
+Book chapters
 ======
 1. Ömer Bulakçı (ed.), Xi Li (ed.), Marco Gramaglia (ed.), Anastasius Gavras (ed.), Mikko Uusitalo (ed.), Patrik Rugeland (ed.), Mauro Boldi (ed.) (2023), "Towards Sustainable and Trustworthy 6G: Challenges, Enablers, and Architectural Design", Boston-Delft: now publishers (Contributing author in Chapter 3).
 
