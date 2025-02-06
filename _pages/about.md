@@ -43,6 +43,7 @@ NYU Wireless \
 
 ---
 # News
+* 01/2025: I attended [NYU Wireless Open House](https://wireless.engineering.nyu.edu/2025-open-house/) with one poster on indoor navigatoin with reinforcement learning, and one demo of FR3 channel sounder. Had nice discussions with talented stduents and professional industrial partners.
 * 12/2024: Our paper [Integrated communication, localization, and sensing in 6G D-MIMO networks](https://arxiv.org/abs/2403.19785) is accepted in IEEE Wireless Communications. 
 * 12/2024: Our paper [Site-specific outdoor propagation assessment and ray-tracing analysis for wireless digital twins](https://arxiv.org/abs/2410.14620) is accepted in Proc. IEEE EuCAP 2025. 
 * 11/2024: Our paper [6G positioning and sensing through the lens of sustainability, inclusiveness, and trustworthiness](https://arxiv.org/abs/2309.13602) is accepted in IEEE Wireless Communications. A nice closure of Hexa-X WP3 with amazing industrial and academic partners. 

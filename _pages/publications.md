@@ -23,7 +23,7 @@ Preprints
 Journal Papers
 ======
 1. **H. Guo**, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. Furkan Keskin, M. H. Moghaddam, C. Madapatha, H. Yu, P. Hammarberg, H. Kim, and T. Svensson, "Integrated communication, localization, and sensing in 6G D-MIMO networks”, accepted in IEEE Wireless Communications, 2025. 
-2. H. Wymeersch, H. Chen, **H. Guo**, MF.  Keskin, BM. Khorsandi, MH. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana, "6G positioning and sensing through the lens of sustainability, inclusiveness, and trustworthiness”, accepted in IEEE Wireless Communications, 2025. 
+2. H. Wymeersch, H. Chen, **H. Guo**, MF.  Keskin, BM. Khorsandi, MH. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana, "6G positioning and sensing through the lens of sustainability, inclusiveness, and trustworthiness”, IEEE Wireless Communications, vol. 32, no. 1, pp. 68-75, Feb. 2025.
 3. M. Sattari, **H. Guo**,  D. Gündüz, A. Panahi, and  T. Svensson, "Full-duplex millimeter wave MIMO channel estimation: A neural network approach”, IEEE Transactions on Machine Learning in Communications and Networking, vol. 2, pp. 1093-1108, Aug. 2024. 
 4. **H. Guo**, B. Makki, M.-S. Alouini, and T. Svensson, "High-rate uninterrupted internet-of-vehicle communications in highways: Dynamic blockage avoidance and CSIT acquisition”,   IEEE Communication Magazine, pp. 44–50, Jul. 2022.
 5. **H. Guo**, B. Makki, D.-T. Phan-Huy, E. Dahlman, M.-S. Alouini, and T. Svensson, "Predictor antenna: A technique to boost the performance of moving relays”, IEEE Communication Magazine, vol. 59, no. 7, pp. 80–86, Jul. 2021.

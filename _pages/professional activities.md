@@ -34,6 +34,7 @@ author_profile: true
   - IEEE Journal on Selected Areas in Communications
   - IEEE Internet of Things Journal
   - IEEE Internet of Things Magazine
+  - IEEE Communications Magazine
   - IEEE Transactions on Intelligent Transportation Systems
   - IEEE Vehicular Technology Magazine
   - IEEE Signal Processing Letters
