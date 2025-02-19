@@ -43,7 +43,7 @@ NYU Wireless \
 
 ---
 # News
-* 02/2025: I am awarded as one of the [Exemplary Reviewers for IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/reviewer-appreciation) in the year of 2024. This is the forth time I get this honor.
+* 02/2025: I am awarded as one of the [Exemplary Reviewers for IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/reviewer-appreciation) in the year of 2024. This is the fourth time I get this honor.
 * 01/2025: I attended [NYU Wireless Open House](https://wireless.engineering.nyu.edu/2025-open-house/) with one poster on indoor navigatoin with reinforcement learning, and one demo of FR3 channel sounder. Had nice discussions with talented stduents and professional industrial partners.
 * 12/2024: Our paper [Integrated communication, localization, and sensing in 6G D-MIMO networks](https://arxiv.org/abs/2403.19785) is accepted in IEEE Wireless Communications. 
 * 12/2024: Our paper [Site-specific outdoor propagation assessment and ray-tracing analysis for wireless digital twins](https://arxiv.org/abs/2410.14620) is accepted in Proc. IEEE EuCAP 2025. 
