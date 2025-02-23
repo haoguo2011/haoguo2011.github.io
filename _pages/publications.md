@@ -14,11 +14,12 @@ author_profile: true
 
 Preprints
 ======
-1. T. Li, H. Lei, **H. Guo**, M. Yin, Y. Hu, Q. Zhu, and S. Rangan, "Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning", submitted to IEEE Open Journal of Communication Society, 2024.
-2. R. Bomfin, A. Bazzi, **H. Guo**, H. Lee, M. Mezzavilla, S. Rangan, J. Choi, and  M. Chafii, "An experimental multi-band channel characterization in the upper mid-band", submitted to Proc. IEEE ICC, 2025.
-3. O. Haliloglu, H. Yu, C. Madapatha, **H. Guo**, S. Kumar, A. Wolfgang, R. Puerta, P. Frenger, T. Svensson, "Distributed MIMO systems for 6G: Beyond connectivity and towards seamless coverage", submitted to IEEE Communications Magazine, 2024.
-4. **H. Guo**, B. Makki, M. Åström, M.-S. Alouini, T. Svensson, "Dynamic blockage pre-avoidance using reconfigurable intelligent surfaces”,   submitted to IEEE Communication Magazine.
-5. **H. Guo**, C. Madapatha, B. Makki, B. Dortschy, L. Bao, M. Åström, and T. Svensson, "A comparison between network-controlled repeaters and reconfigurable intelligent surfaces”, submitted to Proc. IEEE ICC.
+1. C. Madapatha, B. Makki, **H. Guo**, and T. Svensson, "Reconfigurable intelligent surfaces-assisted integrated access and backhaul", submitted to Proc. IEEE EuCNC, 2025.
+2. T. Li, H. Lei, **H. Guo**, M. Yin, Y. Hu, Q. Zhu, and S. Rangan, "Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning", submitted to IEEE Open Journal of Communication Society, 2024.
+3. R. Bomfin, A. Bazzi, **H. Guo**, H. Lee, M. Mezzavilla, S. Rangan, J. Choi, and  M. Chafii, "An experimental multi-band channel characterization in the upper mid-band", submitted to Proc. IEEE ICC, 2025.
+4. O. Haliloglu, H. Yu, C. Madapatha, **H. Guo**, S. Kumar, A. Wolfgang, R. Puerta, P. Frenger, T. Svensson, "Distributed MIMO systems for 6G: Beyond connectivity and towards seamless coverage", submitted to IEEE Communications Magazine, 2024.
+5. **H. Guo**, B. Makki, M. Åström, M.-S. Alouini, T. Svensson, "Dynamic blockage pre-avoidance using reconfigurable intelligent surfaces”,   submitted to IEEE Communication Magazine.
+6. **H. Guo**, C. Madapatha, B. Makki, B. Dortschy, L. Bao, M. Åström, and T. Svensson, "A comparison between network-controlled repeaters and reconfigurable intelligent surfaces”, submitted to Proc. IEEE ICC.
 
 Journal Papers
 ======

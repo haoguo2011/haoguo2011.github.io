@@ -1,6 +1,6 @@
 # 1. Change contents
 cd /path/to/haoguo2011.github.io
-# 使用编辑器更新文件
+
 
 # 2. Local review
 bundle exec jekyll serve
