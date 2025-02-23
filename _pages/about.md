@@ -22,7 +22,7 @@ Gothenburg, Sweden
 
 I received the B.Eng. in electrical engineering from Nankai University, Tianjin, China, in 2015, and the M.Sc. and Ph.D. in wireless communications from Chalmers University of Technology, Gothenburg, Sweden, in 2017 and 2022, respectively. 
 
-Since February 2022, I have been a postdoctoral researcher at the Communication Systems Group, Department of Electrical Engineering, Chalmers University of Technology. Currently, I am a Postdoctoral Visiting Scholar at NYU Wireless under the supervision of Prof. Sundeep Rangan.
+Since February 2022, I have been a postdoctoral researcher at the Communication Systems Group, Department of Electrical Engineering, Chalmers University of Technology, under the supervision of Prof. Tommy Svensson. Currently, I am a Postdoctoral Visiting Scholar at NYU Wireless under the supervision of Prof. Sundeep Rangan.
 
 ---
 # Research Interests
