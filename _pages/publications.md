@@ -45,10 +45,10 @@ Preprints
 Journal Papers
 ======
 <div class="reference">
-    <span class="label">[J11]</span> T. Li, H. Lei, <b>H. Guo</b>, M. Yin, Y. Hu, Q. Zhu, and S. Rangan, "Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning", accepted in IEEE Open Journal of Communication Society, 2025.
+    <span class="label">[J11]</span> <b>H. Guo</b>, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. Furkan Keskin, M. H. Moghaddam, C. Madapatha, H. Yu, P. Hammarberg, H. Kim, and T. Svensson, "Integrated communication, localization, and sensing in 6G D-MIMO networks”, IEEE Wireless Communications, vol. 32, no. 2, pp. 214-221, Apr. 2025.
 </div>
 <div class="reference">
-    <span class="label">[J10]</span> <b>H. Guo</b>, H. Wymeersch, B. Makki, H. Chen, Y. Wu, G. Durisi, M. Furkan Keskin, M. H. Moghaddam, C. Madapatha, H. Yu, P. Hammarberg, H. Kim, and T. Svensson, "Integrated communication, localization, and sensing in 6G D-MIMO networks”, accepted in IEEE Wireless Communications, 2025.
+    <span class="label">[J10]</span> T. Li, H. Lei, <b>H. Guo</b>, M. Yin, Y. Hu, Q. Zhu, and S. Rangan, "Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning", IEEE Open Journal of Communication Society, vol. 6, pp. 2356-2372, Mar. 2025.
 </div>
 <div class="reference">
     <span class="label">[J9]</span> H. Wymeersch, H. Chen, <b>H. Guo</b>, M. F. Keskin, B. M. Khorsandi, M. H. Moghaddam, A. Ramirez, K. Schindhelm, A. Stavridis, T. Svensson, and V. Yajnanarayana, "6G positioning and sensing through the lens of sustainability, inclusiveness, and trustworthiness”, IEEE Wireless Communications, vol. 32, no. 1, pp. 68-75, Feb. 2025.

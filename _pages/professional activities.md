@@ -52,6 +52,6 @@ author_profile: true
 
 # Membership
 * IEEE Member (S'17, M'22)
-* IEEE Communications Society Member
+
 
 
