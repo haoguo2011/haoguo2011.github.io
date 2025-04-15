@@ -27,7 +27,7 @@ author_profile: true
 # Reviewer
 * Journals
   - IEEE Wireless Communications Letters (Exemplary Reviewers, 2020, 2021, 2022, 2024)
-  - IEEE Communications Letters (Exemplary Reviewers, 2023)
+  - IEEE Communications Letters (Exemplary Reviewers, 2023, 2024)
   - IEEE Transactions on Communications
   - IEEE Transactions on Wireless Communications
   - IEEE Transactions on Vehicular Technology

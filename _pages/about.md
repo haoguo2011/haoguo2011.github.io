@@ -43,6 +43,7 @@ NYU Wireless \
 
 ---
 # News
+* 04/2025: I am awarded as one of the [Exemplary Reviewers for IEEE Communications Letters](https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation) in the year of 2024. This is the second time I get this honor.
 * 03/2025: Our paper [Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning](https://arxiv.org/abs/2306.06766) has been accepted in EEE Open Journal of
 Communication Society! 
 * 02/2025: I am awarded as one of the [Exemplary Reviewers for IEEE Wireless Communications Letters](https://www.comsoc.org/publications/journals/ieee-wcl/reviewer-appreciation) in the year of 2024. This is the fourth time I get this honor.
