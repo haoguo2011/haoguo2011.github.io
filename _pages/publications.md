@@ -29,7 +29,7 @@ Preprints
     <span class="label">[SC3]</span> C. Madapatha, B. Makki, <b>H. Guo</b>, and T. Svensson, "Reconfigurable intelligent surfaces-assisted integrated access and backhaul", submitted to Proc. IEEE EuCNC, 2025.
 </div>
 <div class="reference">
-    <span class="label">[SJ3]</span> H. Wymeersch et al, "Cross-layer Integrated Sensing and Communication: A Joint Industrial and Academic Perspective", submitted to IEEE Open Journal of Communication Society, 2025.
+    <span class="label">[SJ3]</span> H. Wymeersch et al, "Cross-layer integrated sensing and communication: A joint industrial and academic perspective", submitted to IEEE Open Journal of Communication Society, 2025.
 </div>
 <div class="reference">
     <span class="label">[SC2]</span> R. Bomfin, A. Bazzi, <b>H. Guo</b>, H. Lee, M. Mezzavilla, S. Rangan, J. Choi, and M. Chafii, "An experimental multi-band channel characterization in the upper mid-band", submitted to Proc. IEEE GLOBECOM, 2025.
