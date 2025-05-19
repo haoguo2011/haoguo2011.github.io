@@ -9,12 +9,14 @@ author_profile: true
 ---
 
 # Editors
-* IEEE Vehicular Technology Magazine: IEEE Future Networks Special Issue on 6G Technologies and Applications
+* IEEE Wireless Communications Letters: Associate Editor since May 2025
+* IEEE Vehicular Technology Magazine: IEEE Future Networks Special Issue on 6G Technologies and Applications (7), 2025
+* IEEE Vehicular Technology Magazine: IEEE Future Networks Special Issue on 6G Technologies and Applications (6), 2024
 
 # Technical Program Committee (TPC) member
 * IEEE Global Communications Conference (GLOBECOM): 2023, 2024, 2025
 * IEEE International Conference on Communications (ICC): 2024, 2025
-* IEEE Wireless Communications and Networking Conference (WCNC): 2024
+* IEEE Wireless Communications and Networking Conference (WCNC): 2025
 * IEEE Vehicular Technology Conference (VTC): 2024, 2025
 
 
