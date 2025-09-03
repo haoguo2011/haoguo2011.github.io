@@ -8,21 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Visiting Scholar at [NYU Wireless](https://wireless.engineering.nyu.edu/faculty-staff/)\
-New York University\
-Brooklyn, New York, USA
-
-Postdoc at Communication Systems Group\
-Department of Electrical Engineering\
-Chalmers University of Technology\
-Gothenburg, Sweden
+Lead Wireless Solutions Architect\
+CableLabs\
+Louisville, CO, USA
 
 ---
 # Bio
 
 I received the B.Eng. in electrical engineering from Nankai University, Tianjin, China, in 2015, and the M.Sc. and Ph.D. in wireless communications from Chalmers University of Technology, Gothenburg, Sweden, in 2017 and 2022, respectively. 
 
-Since February 2022, I have been a postdoctoral researcher at the Communication Systems Group, Department of Electrical Engineering, Chalmers University of Technology, under the supervision of Prof. Tommy Svensson. Currently, I am a Postdoctoral Visiting Scholar at NYU Wireless under the supervision of Prof. Sundeep Rangan.
+From Feb 2022 to Aug 2025, I was a postdoctoral researcher at the Communication Systems Group, Department of Electrical Engineering, Chalmers University of Technology. Also, I was a Postdoctoral Visiting Scholar at NYU Wireless under the supervision of Prof. Sundeep Rangan from Mar 2024 to Aug 2025.
+
+Currently, I am a Lead Wireless Solutions Architect at CableLabs.
 
 ---
 # Research Interests
@@ -35,14 +32,15 @@ Since February 2022, I have been a postdoctoral researcher at the Communication 
 ---
 # Contact
 * **Hao Guo** \
-NYU Wireless \
+<!-- NYU Wireless \
 370 Jay St, 9th Fl \
-11201, Brooklyn, NY, USA
+11201, Brooklyn, NY, USA -->
 * *Emails:*
-   hg2891 [at] nyu [dot] edu, hao.guo [at] chalmers [dot] se
+   h.guo [at] cablelabs [dot] com
 
 ---
 # News
+* 08/2025: I started a new position of Lead Wireless Solutions Architect at CableLabs!
 * 05/2025: I started to serve as an Associate Editor for IEEE Wireless Communications Letters!
 * 04/2025: I am awarded as one of the [Exemplary Reviewers for IEEE Communications Letters](https://www.comsoc.org/publications/journals/ieee-comml/reviewer-and-editor-appreciation) in the year of 2024. This is the second time I get this honor.
 * 03/2025: Our paper [Digital twin-enhanced wireless indoor navigation: Achieving efficient environment sensing with zero-shot reinforcement learning](https://arxiv.org/abs/2306.06766) has been accepted in EEE Open Journal of
